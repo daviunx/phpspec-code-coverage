@@ -35,7 +35,6 @@
     "suggest": {
         "ext-xdebug": "Install Xdebug to generate phpspec code coverage if you are not using phpdbg"
     },
-    "minimum-stability": "stable",
     "autoload" : {
         "psr-4" : { "LeanPHP\\PhpSpec\\CodeCoverage\\": "src/" }
     },
